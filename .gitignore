@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+packages/*/package-lock.json
+package-lock.json
+
+# build and test
+build/
+packages/*/dist/
+packages/*/esm/
